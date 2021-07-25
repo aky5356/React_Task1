@@ -1,0 +1,986 @@
+.art1{
+    background-color: white;
+
+}
+
+.art2{
+    background-color: rgb(112, 110, 110);
+}
+.box1{
+    
+}
+.join{
+  
+    float: right;
+    width:100px;
+    font-size: 13px;
+    margin-top: 70px;
+    
+    color: white;
+    padding:5px;
+    border: 0.8px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.join:hover{
+    color: white;
+    border: 2.5px solid #2d17bd;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}
+.engg{
+    width: 100%;
+    height: auto;
+    border-radius: 4px 4px 0px 0px;
+}
+.arrow{
+    margin-top: 80px;
+    margin-left: 10px;
+    color: white;
+}
+.arrow:hover{
+    color: blue;
+}
+
+.text{
+   margin-top: 100px;
+    margin-left: 15px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+     
+     
+ 
+
+.filter{
+    
+    width: 106px;
+    height: 32px;
+    margin-left: 180px;
+    margin-top: 10px;
+
+background: #F1F3F5;
+border-radius: 4px;
+}
+.filter:hover{
+    border: 3px solid blue;
+}
+
+.post{
+    width: 73px;
+height: 18px;
+margin-top:-20px;
+margin-left: 10px;
+color: #212529;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 18px;
+letter-spacing: 0.01em;
+
+}
+.article{
+    width: 60px;
+height: 19px;
+margin-left: 20px;
+margin-top: 15px;
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+color: #000000;
+}
+
+.what{
+    width: 250px;
+height: 42px;
+left: 16px;
+margin-top: 10px;
+margin-left: 10px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 21px;
+
+color: #212529;
+}
+
+.threedot{
+   margin-left: 280px;
+   margin-top: -100px;
+
+}
+
+.worked{
+   width: 100%; 
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+margin-left: 10px;
+margin-top: -18px;
+color: #495057;
+}
+
+.sarthak{
+    width: 120px;
+height: 17px;
+margin-top: -38px;
+margin-left: 50px;
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 17px;
+color: #212529;
+}
+
+.view{
+    
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+margin-top: -15px;
+margin-left: 50px;
+color: #495057;
+
+}
+
+.share{
+    background: #F1F3F5;
+    width: 100px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: -80px;
+}
+.share-text{
+    
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 16px;
+color: #212529;
+
+}
+
+.edit{
+    width: 70px;
+height: 70px;
+border-radius: 40px;
+margin-left: 250px;
+margin-top: -60px;
+background: linear-gradient(180deg, #FF5C5C 0%, #F0568A 100%);
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18), 0px 0px 2px rgba(0, 0, 0, 0.08);
+
+}
+
+.edit-img{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.door_pic{
+    width: 100%;
+}
+
+.education{
+    font-size: 19px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+color: #000000;
+
+}
+
+.acc{
+    width: 350px;
+height: 462px;
+margin-top: 250px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(133, 113, 113, 0.25);
+border-radius: 8px 8px 0px 0px;
+
+}
+
+.create{
+    margin-top: 50px;
+    padding: 25px;
+    margin-left: 15px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+}
+
+.cancel{
+    margin-left: 300px;
+    margin-top: -120px;
+}
+.first{
+    width: 300px;
+height: 40px;
+margin-left: 30px;
+
+background: #F7F8FA;
+border: 1px solid #D9D9DB;
+box-sizing: border-box;
+border-radius: 2px 2px 0px 0px;
+}
+.first-text{
+   margin-left: -210px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 16px;
+color: #8A8A8A;
+}
+
+.email-text{
+    margin-left: -242px;
+ font-family: IBM Plex Sans;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 18px;
+ line-height: 16px;
+ color: #8A8A8A;
+ }
+ 
+.pass-text{
+    margin-left: -210px;
+ font-family: IBM Plex Sans;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 18px;
+ line-height: 16px;
+ color: #8A8A8A;
+ }
+ 
+.password-text{
+    margin-left: -150px;
+ font-family: IBM Plex Sans;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 18px;
+ line-height: 16px;
+ color: #8A8A8A;
+ }
+.cre{
+    margin-left: 30px;
+    width: 180px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 8px;
+}
+.sign{
+    width: 65%;  
+    margin-left: 30px;
+   margin-top: 10px;
+background: #FFFFFF;
+border: 0.6px solid #D9D9DB;
+box-sizing: border-box;
+border-radius: 2px;
+
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 16px;
+}
+
+.tax{
+    width: 70%;
+    height: auto;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 21px;
+color: #212529;
+}
+
+.date{
+margin-top: -24px;
+padding-left: 40px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+letter-spacing: -0.01em;
+}
+
+.date1{
+    padding-left: 10px;
+    float: left;
+}
+
+.visit{
+    margin-left: 30px;
+    width: 80%;
+background: #FFFFFF;
+border: 0.7px dashed #A9AEB8;
+box-sizing: border-box;
+border-radius: 8px;
+
+}
+
+.visit1{
+    text-align: center;
+    padding-top: 5px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140.4%;
+text-align: center;
+color: #E56135;
+}
+
+.ronal{
+    float: left;
+    margin-top: 80px;
+}
+
+.ronal1{
+    margin-top:  20px;
+    margin-left: 8px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 17px;
+color: #212529;
+}
+
+.ronal2{
+    margin-left: 10px;
+    margin-top: -15px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+color: #495057;
+}
+
+.learn{
+    
+width: auto;
+height: 16px;
+background: #EFFFF4;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 16px;
+text-align: center;
+color: #008A45;
+}
+
+.sign{
+    background-color: white;
+    max-width: 800px;
+    height: auto;
+}
+
+.sign-in{
+    margin-top: 50px;
+    margin-left: 30px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+color: #000000;
+}
+
+.new{
+   
+    margin-top: -40px;
+    
+    float: right;
+    width: auto;
+    margin-right: 10px;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: calc(5px + 1vw);
+line-height: 17px;
+text-align: right;
+
+color: #3D3D3D;
+
+}
+.bo{
+    color: blue;
+}
+
+.signup-form{
+    width: 50%;
+}
+
+.signup-button{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.signup-fb{
+    
+background: #FFFFFF;
+border: 0.6px solid #D9D9DB;
+box-sizing: border-box;
+border-radius: 2px;
+width: 100%;
+}
+
+.fb-text{
+    
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 16px;
+color: #000000;
+}
+
+.signup-img{
+  margin-top: -350px;
+  margin-left: 100px;
+  height: auto;
+   
+}
+@media only screen and (min-width:500px) and (max-width:570px) {
+    .text{
+        margin-top: 170px;
+        font-size: 18px;
+    }
+    
+    .edit{
+        width: 70px;
+        height: 70px;
+        border-radius: 40px;
+        margin-left: 400px;
+        
+    }
+    .share{
+        margin-left: 350px;
+    }
+    .threedot{
+       margin-left: 400px;
+    }
+    .filter{
+        margin-left: 350px;
+    }
+    
+.signup-img{
+    margin-top: -250px;
+    margin-left: 180px;
+    height: 320px;
+     
+  }
+}
+
+@media only screen and (min-width:570px) and (max-width:650px) {
+    .text{
+        font-size: 8px;
+        margin-top: 40px;
+    }
+    .edit{
+        margin-left: 160px;
+        margin-top: -40px;
+        width: 20px;
+        height: 20px;
+        border-radius: 10px;
+    }
+    
+    .filter{
+        margin-left: 20px;
+        width: 70px;
+        font-size: 11px;
+        margin-left: 90px;
+    }
+    
+    .threedot{
+        margin-left: 160px;
+        margin-top: -250px;
+
+    }
+    .what{
+         width: 150px;
+    }
+
+    .join{
+         width: 50px;
+         font-size: 8px;
+    }
+
+    .arrow{
+        margin-top: 70px;
+        width: 10px;
+        height: 10px;
+    }
+
+    .what{
+        width: 140px;
+        height: auto;
+    }
+    .sarthak{
+        width:80px;
+        font-size: 9px;
+    }
+
+    
+    .edit-img{
+    width: 10px;
+    height: 10px;
+    margin-left: 4px;
+    margin-top: -10px;
+    }
+    .ronal{
+        margin-top: 25px;
+    }
+    
+.signup-img{
+    margin-top: -250px;
+    margin-left: 200px;
+    height: 320px;
+     
+  }
+}
+
+
+@media only screen and (min-width:650px) and (max-width:760px) {
+    .text{
+        margin-top: 40px;
+        font-size: 11px;
+    }
+    .filter{
+        margin-left:100px;
+    }
+    .threedot{
+        margin-left: 120px;
+        margin-top: -250px;
+
+    }
+    .what{
+        width: 180px;
+        height: auto;
+    }
+    
+    .edit{
+        margin-left: 160px;
+        margin-top: -40px;
+        width: 30px;
+        height: 30px;
+        border-radius: 15px;
+    }
+        
+    .edit-img{
+        width: 12px;
+        height: 12px;
+        margin-left: 10px;
+        margin-top: -5px;
+        }
+        .threedot{
+            margin-left: 160px;
+            margin-top: -250px;
+    
+        }
+        .sarthak{
+            width:100px;
+            font-size: 11px;
+        }
+        
+    .share{
+        margin-left: 120px;
+    }
+    .signup-img{
+        margin-top: -250px;
+        margin-left: 130px;
+        height: 320px;
+         
+      }
+}
+
+
+@media only screen and (min-width:760px)  and ( max-width:900px){
+    .text{
+        margin-top: 44px;
+        font-size: 14px;
+    }
+    .threedot{
+        margin-left: 210px;
+        margin-top: -160px;
+
+    }
+    
+    .what{
+        width: 200px;
+        height: auto;
+    }
+    
+    .arrow{
+        margin-top: 70px;
+        width: 15px;
+        height: 15px;
+    }
+    .filter{
+        margin-left:120px;
+    }
+    .share{
+        margin-left: 140px;
+    }
+    
+    .sarthak{
+        width:120px;
+        font-size: 12px;
+    }
+    .edit{
+        margin-left: 200px;
+        margin-top: -40px;
+        width: 35px;
+        height: 35px;
+        border-radius: 18px;
+    }
+        
+    .edit-img{
+        width: 14px;
+        height: 14px;
+        margin-left: 12px;
+        margin-top: 2px;
+        }
+        
+.signup-img{
+    margin-top: -250px;
+    margin-left: 260px;
+    height: 320px;
+     
+  }
+}
+
+
+@media  only screen and (min-width:900px) and ( max-width:1100px){
+    .filter{
+        margin-left: 180px;
+    }
+    .text{
+        margin-top: 80px;
+        font-size: 13px;
+    }
+    .what{
+        width: 260px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 255px;
+        margin-top: -150px;
+    }
+    .worked{
+        font-size: 19px;
+        margin-top: -30px;
+        margin-left: 10px;
+    }
+    .share{
+        margin-left: 190px;
+    }
+    .edit{
+        margin-left: 200px;
+    }
+    .acc{
+        width: 100%;
+    }
+    .signup-img{
+        margin-top: -250px;
+        margin-left: 320px;
+        height: 320px;
+         
+      }
+}
+
+
+@media  only screen  and (min-width:1100px) and ( max-width:1250px) {
+    
+    .text{
+        margin-top: 120px;
+        font-size: 15px;
+    }
+     .filter{
+        margin-left:220px;
+    }
+    .what{
+        width: 300px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 310px;
+        margin-top: -125px;
+    }
+    .share{
+        margin-left: 240px;
+    }
+    .edit{
+        margin-left: 270px;
+    }
+    .signup-img{
+        margin-top: -240px;
+        margin-left: 410px;
+        height: 320px;
+         
+      }
+}
+
+
+@media  only screen  and (min-width:1250px) and (max-width:1350px) {
+    
+    .text{
+        margin-top: 150px;
+        font-size: 17px;
+    }
+     .filter{
+        margin-left:270px;
+    }
+    .what{
+        width: 345px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 360px;
+        margin-top: -125px;
+    }
+    .share{
+        margin-left: 290px;
+    }
+    .edit{
+        margin-left: 320px;
+    }
+    .signup-img{
+        margin-top: -240px;
+        margin-left: 490px;
+        height: 320px;
+         
+      }
+}
+
+
+@media  only screen  and (min-width:1350px) and (max-width:1500px) {
+    
+    .text{
+        margin-top: 170px;
+        font-size: 18px;
+    }
+     .filter{
+        margin-left:290px;
+    }
+    .what{
+        width: 360px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 380px;
+        margin-top: -125px;
+    }
+    .share{
+        margin-left: 310px;
+    }
+    .edit{
+        margin-left: 340px;
+    }
+    .signup-img{
+        margin-top: -240px;
+        margin-left: 520px;
+        height: 320px;
+         
+      }
+}
+
+@media only screen and (min-width:1500px) and (max-width:1800px) {
+
+    
+    .text{
+        margin-top: 200px;
+        font-size: 20px;
+    }
+     .filter{
+        margin-left:360px;
+    }
+    .what{
+        width: 410px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 440px;
+        margin-top: -125px;
+    }
+    .share{
+        margin-left: 350px;
+    }
+    .edit{
+        margin-left: 390px;
+    }
+    .signup-img{
+        margin-top: -240px;
+        margin-left: 520px;
+        height: 320px;
+         
+      }
+}
+
+
+@media only screen and (min-width:1800px) and (max-width:2100px) {
+
+    
+    .text{
+        margin-top: 240px;
+        font-size: 22px;
+    }
+     .filter{
+        margin-left:450px;
+    }
+    .what{
+        width: 360px;
+        height: auto;
+        font-size: 19px;
+    }
+    .threedot{
+        margin-left: 520px;
+        margin-top: -125px;
+    }
+    .share{
+        margin-left: 460px;
+    }
+    .edit{
+        margin-left: 500px;
+    }
+    
+    .join{
+        width: 120px;
+        font-size: 17px;
+   }
+   
+   .signup-img{
+    margin-top: -240px;
+    margin-left: 520px;
+    height: 320px;
+     
+  }
+}
+
+
+
+@media only screen and (min-width:500px) and (max-width:570px) {
+    .text{
+        margin-top: 170px;
+        font-size: 18px;
+    }
+    
+    .edit{
+        width: 70px;
+        height: 70px;
+        border-radius: 40px;
+        margin-left: 400px;
+        
+    }
+    .share{
+        margin-left: 350px;
+    }
+    .threedot{
+       margin-left: 400px;
+    }
+    .filter{
+        margin-left: 350px;
+    }
+    
+}
+
+@media only screen and (min-width:2100px)  {
+    .text{
+        font-size: 24px;
+        margin-top: 340px;
+    }
+    
+    .filter{
+        margin-left: 520px;
+        width: 140px;
+        font-size: 17px;
+       
+    }
+    
+    .threedot{
+        margin-left: 600px;
+        margin-top: -120px;
+
+    }
+    .join{
+         width: 140px;
+         font-size: 21px;
+    }
+
+    .arrow{
+        margin-top: 70px;
+        width: 30px;
+        height: 30px;
+    }
+
+    .what{
+        width: 370px;
+        height: auto;
+    }
+    .sarthak{
+        width:150px;
+        font-size: 19px;
+    }
+    
+    .share{
+        margin-left: 550px;
+    }
+
+    
+    .edit{
+        width: 90px;
+        height: 90px;
+        border-radius: 50px;
+        margin-left: 550px;
+        margin-top: -70px;
+        
+    }
+    
+    .edit-img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+    }
+}
